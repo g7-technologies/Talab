@@ -1,0 +1,35 @@
+.progress-bar {
+	width: 160px;
+	background: transparent;
+	height: 22px;
+	margin: 0 auto;
+	background: #F5F5F5;
+}
+  
+.progress-w {
+    width: 0;
+    height: 100%;
+    text-align: right;
+    position: relative;
+    background: #FFBB00;
+}
+.progress-w span {
+	display: inline-block;
+	position: absolute;
+	color: #4951A1;
+	background: #fff;
+	height: 28px;
+	width: 47px;
+	text-align: center;
+	border-radius: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 5px;
+	line-height: 28px;
+	font-size: 14px;
+	font-weight: 500;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
