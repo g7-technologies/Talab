@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168.964" height="168.964" viewBox="0 0 168.964 168.964">
+  <defs>
+    <filter id="_6221fd2a8a6801ea0e0d436c4286f41c" x="0" y="0" width="168.964" height="168.964" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_53586" data-name="Group 53586" transform="translate(-1081 -255)">
+    <g id="Group_53556" data-name="Group 53556" transform="translate(978.053 102.018)">
+      <g transform="matrix(1, 0, 0, 1, 102.95, 152.98)" filter="url(#_6221fd2a8a6801ea0e0d436c4286f41c)">
+        <rect id="_6221fd2a8a6801ea0e0d436c4286f41c-2" data-name="6221fd2a8a6801ea0e0d436c4286f41c" width="108.964" height="108.964" rx="30" transform="translate(30 24)" fill="#fff"/>
+      </g>
+      <g id="Iconly_Bold_Image" data-name="Iconly/Bold/Image" transform="translate(162.429 206.482)">
+        <g id="Image" transform="translate(4.167 4.167)">
+          <path id="Image-2" data-name="Image" d="M29.859,41.666H11.8C4.744,41.666,0,36.713,0,29.34V12.326C0,4.954,4.744,0,11.8,0H29.861c7.061,0,11.805,4.954,11.805,12.326V29.34C41.666,36.713,36.921,41.666,29.859,41.666ZM13.14,27.584c-1.047,0-2.121.8-3.592,2.665l-.079.1c-.937,1.186-1.9,2.406-2.857,3.6a1.659,1.659,0,0,0-.338,1.319A1.492,1.492,0,0,0,6.956,36.3a8.566,8.566,0,0,0,4.562,1.2H29.076a9.424,9.424,0,0,0,2.931-.446,7.744,7.744,0,0,0,4.71-4.4,7.825,7.825,0,0,0,.411-5.709,4.714,4.714,0,0,0-1.069-1.633L36.05,25.3a22.524,22.524,0,0,0-3.892-3.326,2.978,2.978,0,0,0-1.582-.49,3.9,3.9,0,0,0-2.839,1.679c-.368.5-.688,1.023-1.025,1.582L26.5,25.1l-.015.024a11.839,11.839,0,0,1-4.084,4.62,5.18,5.18,0,0,1-2.516.7A7.325,7.325,0,0,1,15.8,28.811a11.439,11.439,0,0,0-1.723-1.02A2.334,2.334,0,0,0,13.14,27.584Zm.4-19.252a5.209,5.209,0,1,0,5.205,5.209A5.214,5.214,0,0,0,13.539,8.332Z" fill="#200e32"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_53574" data-name="Group 53574" transform="translate(1178.522 344.556)">
+      <g id="Ellipse_104" data-name="Ellipse 104" transform="translate(0.478)" fill="#200e32" stroke="#200e32" stroke-width="0.75">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6.125" fill="none"/>
+      </g>
+      <g id="Group_12815" data-name="Group 12815" transform="translate(3.542 9.703) rotate(-88)">
+        <path id="Stroke_5" data-name="Stroke 5" d="M6.643,0H0" transform="translate(0 3.32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+        <path id="Stroke_7" data-name="Stroke 7" d="M0,6.643V0" transform="translate(3.321 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      </g>
+    </g>
+  </g>
+</svg>
